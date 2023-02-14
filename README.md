@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=faebd7&height=150&section=header&text=Developer%20김석태&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=faebd7&height=150&section=header&text=Developer%20김석태&fontSize=50)
 
 <div align="center">
 ✏️ 꾸준히 몰두하는 것을 즐깁니다, 최강의 개발자가 되기 위해 </br>
